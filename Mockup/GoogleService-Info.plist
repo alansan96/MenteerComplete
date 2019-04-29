@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>874068664501-g6k2enosb71jf6samri5n3bbtddhf6c4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.874068664501-g6k2enosb71jf6samri5n3bbtddhf6c4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvhuohpZhyi7mXn2mmB-p3hyjK4emUcPY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>874068664501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JaceJoseph.MockupNew</string>
+	<key>PROJECT_ID</key>
+	<string>fir-testing-349d0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-testing-349d0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:874068664501:ios:8114157a5966f5d8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-testing-349d0.firebaseio.com</string>
+</dict>
+</plist>
